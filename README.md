@@ -22,6 +22,14 @@ Eğer yoksa, bir `requirements.txt` dosyası oluşturun ve içinde kullanmanız 
 - plotly
 - tk
 
+## Yazarlar
+
+- [İbrahim Püsküllü] - Proje geliştiricisi
+
+## Lisans
+
+Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için [Lisans Dosyasını](LICENSE) inceleyebilirsiniz.
+
   ## 4. README.md Dosyası Oluşturma
 Projenizin ne yaptığını, nasıl çalıştığını ve nasıl kullanılacağını açıklayan bir `README.md` dosyası oluşturun. Örnek bir içerik:
 
